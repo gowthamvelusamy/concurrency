@@ -1,4 +1,4 @@
-package com.gv.ssj.thread;
+package com.gv.ssj.thread.Locking;
 
 public class WaitNotify {
 
@@ -49,7 +49,6 @@ public class WaitNotify {
         }
         third.start();
     }
-
 
 }
 
